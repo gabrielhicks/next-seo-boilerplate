@@ -6,6 +6,12 @@ We are connecting the Next.js `_app.js` with `chakra-ui`'s Theme and ColorMode c
 
 ## Deploy your own
 
+Change anywhere you find https://gabrielhicks.dev/
+
+Favicons were generated with https://realfavicongenerator.net/
+
+SEO is still in progress for "full" optimization, I am learning, but a lot has been done.
+
 Deploy the example using [Vercel](https://vercel.com):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-chakra-ui)
